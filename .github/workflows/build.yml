@@ -21,23 +21,23 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if git ls-remote --heads "https://github.com/${{ github.repository }}.git" builds | grep -q builds; then
+          git init builds
+          cd builds
+
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+
+          if git ls-remote --exit-code --heads origin builds > /dev/null 2>&1; then
             echo "Branch 'builds' exists"
-            git clone --branch builds "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" builds
+            git fetch origin builds
+            git checkout -B builds origin/builds
           else
-            echo "Branch 'builds' does not exist, creating it"
-            mkdir builds
-            cd builds
-            git init
+            echo "Branch 'builds' does not exist"
             git checkout --orphan builds
             echo "# builds branch" > README.md
-
             git add README.md
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
-            git commit -m "init builds branch"
-            git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
-            git push -u origin builds
+            git commit -m "Initialize builds branch"
           fi
 
       - name: Clean old builds
