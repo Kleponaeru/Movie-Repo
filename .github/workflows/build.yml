@@ -17,24 +17,32 @@ jobs:
         with:
           path: src
 
-      - name: Checkout builds (create if not exists)
+           - name: Checkout builds (create if not exists)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          REPO="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          if git ls-remote --exit-code $REPO builds; then
+          git fetch origin
+
+          if git ls-remote --exit-code --heads origin builds; then
             echo "Branch 'builds' exists, checking out..."
-            git clone --branch builds $REPO builds
+            git clone --branch builds "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" builds
           else
             echo "Branch 'builds' does not exist, creating..."
-            git clone $REPO builds
+            mkdir builds
             cd builds
+
+            git init
             git checkout --orphan builds
-            git rm -rf .
+
             echo "# builds branch" > README.md
+
             git add README.md
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
             git commit -m "init builds branch"
-            git push $REPO builds
+
+            git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+            git push -u origin builds
           fi
 
       - name: Clean old builds
