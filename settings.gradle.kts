@@ -8,7 +8,8 @@ val disabled = listOf(
     "LayarKaca",
     "Ngefilm",
     "Gomov",
-    "Nodrakorid"
+    "Nodrakorid",
+    "Pusatfilm",
 )
 
 File(rootDir, ".").eachDir { dir ->
