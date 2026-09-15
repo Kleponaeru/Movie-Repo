@@ -6,7 +6,9 @@ rootProject.name = "CloudstreamPlugins"
 val disabled = listOf(
     "Dutamovie",
     "LayarKaca",
-    "Ngefilm"
+    "Ngefilm",
+    "Gomov",
+    "Nodrakorid"
 )
 
 File(rootDir, ".").eachDir { dir ->
