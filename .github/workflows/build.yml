@@ -5,7 +5,7 @@ concurrency:
   cancel-in-progress: true
 
 on:
-  workflow_dispatch:  # hanya jalan saat ditekan manual dari GitHub UI
+  workflow_dispatch: # hanya jalan saat ditekan manual dari GitHub UI
 
 jobs:
   build:
@@ -17,30 +17,24 @@ jobs:
         with:
           path: src
 
-           - name: Checkout builds (create if not exists)
+      - name: Checkout builds
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git fetch origin
-
-          if git ls-remote --exit-code --heads origin builds; then
-            echo "Branch 'builds' exists, checking out..."
+          if git ls-remote --heads "https://github.com/${{ github.repository }}.git" builds | grep -q builds; then
+            echo "Branch 'builds' exists"
             git clone --branch builds "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" builds
           else
-            echo "Branch 'builds' does not exist, creating..."
+            echo "Branch 'builds' does not exist, creating it"
             mkdir builds
             cd builds
-
             git init
             git checkout --orphan builds
-
             echo "# builds branch" > README.md
-
             git add README.md
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
             git commit -m "init builds branch"
-
             git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
             git push -u origin builds
           fi
@@ -92,7 +86,7 @@ jobs:
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
           git add .
-          git commit --amend -m "Build $GITHUB_SHA" || exit 0
+          git commit -m "Build $GITHUB_SHA" || echo "No changes to commit"
           git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" builds
 
       - name: Upload Artifacts
@@ -103,3 +97,4 @@ jobs:
             builds/*.cs3
             builds/*.jar
             builds/plugins.json
+            builds/repo.json
