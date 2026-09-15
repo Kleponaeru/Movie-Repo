@@ -1,0 +1,8 @@
+{
+  "name": "Kleponaeru Movie Repo",
+  "description": "Kleponaeru's CloudStream extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/plugins.json"
+  ]
+}

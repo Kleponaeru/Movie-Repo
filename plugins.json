@@ -1,0 +1,521 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
+        "fileHash": "sha256-112aeb6affa3f64ac3fcba385086c2afe01e5a3abb64ee85b0bef2035f575645",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 27330,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 13,
+        "internalName": "Animasu",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Animasu.cs3",
+        "name": "Animasu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.xyz&sz=%size%",
+        "fileHash": "sha256-05e561991b3afbaa4dfd4ac82b0674d255c62d16d7690818471b4f6877ad4d62",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 16095,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 24,
+        "internalName": "AnimeIndo",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/AnimeIndo.cs3",
+        "name": "AnimeIndo"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=154.26.137.28&sz=%size%",
+        "fileHash": "sha256-2d893e4c80947542eed26d04e4d987b230d8a7dc944eaf4eae59003bd834b82b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 17680,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 15,
+        "internalName": "AnimeSail",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/AnimeSail.cs3",
+        "name": "AnimeSail"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.anoboy.app&sz=%size%",
+        "fileHash": "sha256-3d1b4deb89c01c3a267eb97531999f7021689d3fda076ec5daac7979089cfe11",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 15146,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "Anoboy",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Anoboy.cs3",
+        "name": "Anoboy"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%",
+        "fileHash": "sha256-522e5fa429d7a90fbe7a7030c57c01564aaf74f0287f299695a01cf6f7650959",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 22873,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "Dramaid",
+        "description": "Include: Oppadrama",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Dramaid.cs3",
+        "name": "Dramaid"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv3.dramaserial.id&sz=%size%",
+        "fileHash": "sha256-247f6053f3657f028b396c94db64ab378d0489b996e57a6726e0d2ffd4a447de",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 18410,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "DramaSerial",
+        "description": "Drama Serial, harus pake vpn",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/DramaSerial.cs3",
+        "name": "DramaSerial"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.site&sz=256",
+        "fileHash": "sha256-48b97420777774ed2d9de1fb1c16818ba7df0e18e41fbacd91a06b3dbdebc027",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 13382,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Dubbindo",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Dubbindo.cs3",
+        "name": "Dubbindo"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Funmovieslix.png",
+        "fileHash": "sha256-cb3f2ead91d2b4a933c0bfa35184d004d26c6f8d79303f224e2409a55d1f38d5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 14716,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Funmovieslix",
+        "description": "Indonesia Source",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Funmovieslix.cs3",
+        "name": "Funmovieslix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=185.231.223.76&sz=%size%",
+        "fileHash": "sha256-a11ed2d5a25ac1a7528e26369daa1bf70ad6e47a59ec85edaa1a0c8dbee9c14c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 19375,
+        "status": 0,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 4,
+        "internalName": "Gomunime",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Gomunime.cs3",
+        "name": "Gomunime"
+    },
+    {
+        "iconUrl": "hhttps://tv7.idlix.asia/wp-content/uploads/2020/07/logov4.png",
+        "fileHash": "sha256-776499015d0bfee2deab5875632538dba410a35d05096f217798c0f188c9a536",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 30372,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 19,
+        "internalName": "Idlix",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Idlix.cs3",
+        "name": "Idlix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "fileHash": "sha256-0739c781524b2670a0d7366d71712069746de79a497cf1b1a04cbefcb3d1267b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 22328,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 6,
+        "internalName": "IndoTV",
+        "description": "Indo IPTV",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/IndoTV.cs3",
+        "name": "IndoTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+        "fileHash": "sha256-2fff30232fb9ac65d98e2197c74bc7eaeacce704ebc850804aa640bfe77f6777",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 21670,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 39,
+        "internalName": "Kuramanime",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Kuramanime.cs3",
+        "name": "Kuramanime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuronime.biz&sz=%size%",
+        "fileHash": "sha256-2b0ab14bc9b321297ddda73182aee925bd1f340ab448681b8f40ddd7869b17eb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 26201,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 21,
+        "internalName": "Kuronime",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Kuronime.cs3",
+        "name": "Kuronime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=minioppai.org&sz=%size%",
+        "fileHash": "sha256-ec38929fe010ed093daa29683958789df661a577246ed2b88607ac4463ab4bee",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 20832,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Sora",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 12,
+        "internalName": "Minioppai",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Minioppai.cs3",
+        "name": "Minioppai"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
+        "fileHash": "sha256-f5378836c4e14b7597c735992c294126ded0202c8236ebaf21f8485843360db2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 24159,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Sora",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "Nekopoi",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Nekopoi.cs3",
+        "name": "Nekopoi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakupoi.org/neonime&sz=%size%",
+        "fileHash": "sha256-e4d0a838a35bd3ed15b764de2f3c53238c48c09902ee1a074c9aad8672b475ed",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 15752,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "Neonime",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Neonime.cs3",
+        "name": "Neonime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+        "fileHash": "sha256-20bc4f5c2296e077b86cf3dbec2ef0d977971d1b6f2d1767a71d257e6a65da73",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 23780,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 13,
+        "internalName": "Nimegami",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Nimegami.cs3",
+        "name": "Nimegami"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nontonanimeid.org&sz=%size%",
+        "fileHash": "sha256-6650df6023809ee3d135830cb661dda6d312f36a7943411cc9dd88f5623ba91f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 24236,
+        "status": 0,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 22,
+        "internalName": "NontonAnimeID",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/NontonAnimeID.cs3",
+        "name": "NontonAnimeID"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=oploverz.care&sz=%size%",
+        "fileHash": "sha256-85e1fdb890d6b48ad63ba48d4b44853ce01ffc4af688e6d18084cb9eff599873",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 19702,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 30,
+        "internalName": "Oploverz",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Oploverz.cs3",
+        "name": "Oploverz"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+        "fileHash": "sha256-badb36ccdd2e8af71d6969df967110874353cfaa1291ec7b9181d7a0b4963719",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 23700,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 16,
+        "internalName": "Otakudesu",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Otakudesu.cs3",
+        "name": "Otakudesu"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+        "fileHash": "sha256-e23f16902dc9737e98ca9219172a9d2de51c019ad0d66dce2a3d195f45350589",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 12705,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Pencurimovie",
+        "description": "Pencurimovie ",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Pencurimovie.cs3",
+        "name": "Pencurimovie"
+    },
+    {
+        "iconUrl": "https://raveeflix.my.id/favicon.ico",
+        "fileHash": "sha256-a5539c528aaabf0f464a5049271992fa9873862e3abc36b918c117fa3f1b3bdf",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 19340,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Raveeflix",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Raveeflix.cs3",
+        "name": "Raveeflix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rebahinxxi1.cfd&sz=%size%",
+        "fileHash": "sha256-772da9053da81bfbd50d5c49aaa0623bec0ed04389993662fcfa091d7ba89246",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 23105,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "Rebahin",
+        "description": "Includes: Cgvindo, Kitanonton",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Rebahin.cs3",
+        "name": "Rebahin"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://samehadaku.world&sz=%size%",
+        "fileHash": "sha256-4daa97dd22b620b69b4a7a355b01aeeb5f170bd54b7da3666e1a7519c4902112",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kleponaeru/Movie-Repo",
+        "fileSize": 18070,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 23,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/Kleponaeru/Movie-Repo/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    }
+]
